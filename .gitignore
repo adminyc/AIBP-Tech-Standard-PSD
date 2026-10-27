@@ -1,0 +1,12 @@
+bin/
+obj/
+publish/
+.vs/
+.idea/
+node_modules/
+dist/
+*.user
+*.suo
+*.log
+appsettings.*.local.json
+D:/Secrets/
